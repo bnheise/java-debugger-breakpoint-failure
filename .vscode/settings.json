@@ -1,0 +1,10 @@
+{
+  "java.configuration.runtimes": [
+     {
+      "name": "JavaSE-21",
+      "path": "~/.local/share/rtx/installs/java/zulu-javafx-21.30.15"
+     }
+  ],
+  "java.import.gradle.java.home": "~/.local/share/rtx/installs/java/zulu-javafx-21.30.15",
+  "java.compile.nullAnalysis.mode": "automatic",
+}
